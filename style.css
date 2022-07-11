@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.flood {
+    text-align: center;
+    font-size: 30px;
+    color: deepskyblue;
+}
+
+.blue {
+    text-align: center;
+    font-size: 80px;
+    color: blue;
+}
+
+.orange {
+    text-align: center;
+    font-size: 80px;
+    color: orange;
+}
+
+.background-image {
+    background-image: url(disaster-picture/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+
+}
+
+.donate-taka {
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+
+}
+
+.donate-emergency {
+    color: blue;
+    font-size: 50px;
+
+}
+
+.align {
+    text-align: center;
+}
+
+.font {
+    font-size: 40px;
+}
+
+
+
+
+footer p {
+    text-align: center;
+    color: blue;
+}
